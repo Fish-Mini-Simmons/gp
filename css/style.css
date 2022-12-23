@@ -14,3 +14,6 @@ body {
   display:block;
   clear:both;
 }
+.red {
+  color: red;
+}
